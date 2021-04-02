@@ -1,3 +1,3 @@
 ## README
 
-[Template Source](http://lixizhi.github.io/)
+[Template Source](http://lixizhi.github.io/about/)
