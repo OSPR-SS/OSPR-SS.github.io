@@ -9,7 +9,7 @@ permalink: /projects/
 {:toc}
 
 # All my projects
-Following are projects started by LoopGlitch and Lifeyard 
+Following are the projects done using the research in the review papers
 
 ## Project 1
 * Started: 
