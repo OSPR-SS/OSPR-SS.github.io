@@ -18,7 +18,7 @@ This is the world's first Open Source Paper Review.
 
 He is a sophomore student from India, doing B.Tech(2019-23) in Computer Science Engineering.
 
-![](https://user-images.githubusercontent.com/53336715/113671477-3cc2d280-966b-11eb-8b5f-99b369163400.jpeg)
+<img src="https://user-images.githubusercontent.com/53336715/113671477-3cc2d280-966b-11eb-8b5f-99b369163400.jpeg" width="200" height="200" />
 
 [Personal Website]()
 
