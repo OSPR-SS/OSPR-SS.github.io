@@ -1,6 +1,13 @@
-## README
+# Open Source Paper Review
+
+## Authors
+
+## About
+
+## Instructions
+
+## Credits
 
 [Template Source](http://lixizhi.github.io/about/)
 
-
-[Credits: @LiXizhi](https://github.com/LiXizhi)
+[@LiXizhi](https://github.com/LiXizhi)
