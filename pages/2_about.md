@@ -10,9 +10,24 @@ permalink: /about/
 
 ## About the site
 
-This is the world's first Open Source Paper Review by Science Steins. LoopGlitch (myself) and LifeYard are the members of Steins Steins. This is an initiative from our side to focus on an innovative way of distribution of knowledge in an OPen Source manner.
+This is the world's first Open Source Paper Review. 
 
 ## About us
 
-LoopGlitch is a sophomore student doing his Bachelors of Technology (B.Tech) in Computer Science and Engineering (CSE). 
-Lifeyard is a Masters student (MS) ...we can add more details
+### **Bravish Ghosh** 
+
+He is a sophomore student from India, doing B.Tech(2019-23) in Computer Science Engineering.
+
+![](https://user-images.githubusercontent.com/53336715/113671477-3cc2d280-966b-11eb-8b5f-99b369163400.jpeg)
+
+[Personal Website]()
+
+[LinkedIn](https://www.linkedin.com/in/bravish-ghosh/)
+
+[Twitter](https://twitter.com/Bravish_Ghosh)
+
+[GitHub](https://github.com/LoopGlitch26)
+
+### **Lifeyard** 
+
+He is currently an MS student from Switzerland
